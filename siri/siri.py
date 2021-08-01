@@ -10,11 +10,11 @@ from config import Config
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 ABS="Developer"
-APPER="shamilhabeeb"
+APPER="kid_of_telegram"
 OWNER="Owner"
-GITCLONE="github.com/shamilhabeebnelli/song-bot"
-B2="telegram.dog/shamilhabeeb"
-BUTTON1="📜 Source Code 📜"
+GITCLONE="https://t.me/kidbots"
+B2="telegram.dog/kid_of_telegram"
+BUTTON1="🦋 Kid Bots 🦋"
 
 def time_to_seconds(time):
     stringt = str(time)
