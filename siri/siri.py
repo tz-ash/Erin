@@ -78,7 +78,7 @@ def a(client, message):
             return
     except Exception as e:
         m.edit(
-            "**Enter Song Name with /song Command!**"
+            "**Enter Song Name with /psy Command!**"
         )
         print(str(e))
         return
