@@ -4,7 +4,7 @@ You can download youtube to MP3 from telegram bot #musics
 with & without commands
 ```
 
-<p align="center"><a href="https://t.me/VeezMusicBot"><img src="https://telegra.ph/file/8bf3d62837cb59c3f8e7f.png" width="300"></a></p>
+<p align="center"><a href="https://t.me/Erinprobot"><img src="https://telegra.ph/file/8bf3d62837cb59c3f8e7f.png" width="300"></a></p>
 <p align="center">
 
 ## Deploy - Simplest Way
