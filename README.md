@@ -1,11 +1,11 @@
-### song-bot
+### ERIN
 ```
 You can download youtube to MP3 from telegram bot #musics
 with & without commands
 ```
 
 ## Deploy - Simplest Way
-##### Deploy - with /song command
+##### Deploy - with /psy command
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shamilhabeebnelli/song-bot/tree/main)
 
